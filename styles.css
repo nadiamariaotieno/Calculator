@@ -31,17 +31,18 @@ h1 {
 }
 
 button {
-    background-color: #3498db;
+    background-color: #e91e63;  
     color: white;
     border: none;
     padding: 10px 20px;
     border-radius: 4px;
     cursor: pointer;
     margin: 10px 5px 0 0;
+    transition: background-color 0.3s ease;
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #c2185b;  
 }
 
 #result {
